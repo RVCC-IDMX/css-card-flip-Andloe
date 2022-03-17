@@ -32,3 +32,8 @@ When you want to stop the watcher, click in the terminal and press ctrl-c
    ```
 
 1. The final version of your site will be in the `dist` folder.
+
+## Attributions 
+
+- Photo by <a href="https://unsplash.com/@twinsfisch?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Isabella and Zsa Fischer</a> on <a href="https://unsplash.com/s/photos/birthday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
