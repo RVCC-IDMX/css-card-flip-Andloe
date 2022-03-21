@@ -36,4 +36,7 @@ When you want to stop the watcher, click in the terminal and press ctrl-c
 ## Attributions 
 
 - Photo by <a href="https://unsplash.com/@twinsfisch?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Isabella and Zsa Fischer</a> on <a href="https://unsplash.com/s/photos/birthday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+- Photo by <a href="https://unsplash.com/@wesleycaribe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Wesley Caribe</a> on <a href="https://unsplash.com/s/photos/birthday?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
   

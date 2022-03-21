@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter-VariableFont_slnt,wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Libre';
+    src: url('../fonts/LibreBaskerville-Bold.ttf') format('truetype');
+}
+
+h3 {
+    font-family: Libre;
+}
+
+p {
+    font-family: Inter;
+}
